@@ -1,0 +1,35 @@
+/*
+letters frequencies in english * 100
+source https://en.wikipedia.org/wiki/Letter_frequency
+these frequencies originally included special characters
+and originally added up to 8816
+*/
+
+{
+  "a": 816,
+  "b": 149,
+  "c": 278,
+  "d": 425,
+  "e": 1270,
+  "f": 223,
+  "g": 202,
+  "h": 609,
+  "i": 697,
+  "j": 15,
+  "k": 77,
+  "l": 403,
+  "m": 241,
+  "n": 675,
+  "o": 751,
+  "p": 193,
+  "q": 10,
+  "r": 599,
+  "s": 633,
+  "t": 906,
+  "u": 276,
+  "v": 98,
+  "w": 236,
+  "x": 14,
+  "y": 197,
+  "z": 7,
+}

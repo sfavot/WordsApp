@@ -1,0 +1,37 @@
+/*
+letters frequencies in french * 100
+source https://fr.wikipedia.org/wiki/Fr%C3%A9quence_d%27apparition_des_lettres_en_fran%C3%A7ais
+accentuated letters frequencies have been added to the
+non accentuated version frequency
+these frequencies originally included special characters
+and originally added up to 8816
+*/
+
+{
+  "a": 846,
+  "b": 129,
+  "c": 368,
+  "d": 416,
+  "e": 1638,
+  "f": 126,
+  "g": 140,
+  "h": 126,
+  "i": 753,
+  "j": 39,
+  "k": 33,
+  "l": 563,
+  "m": 297,
+  "n": 725,
+  "o": 575,
+  "p": 282,
+  "q": 74,
+  "r": 689,
+  "s": 738,
+  "t": 672,
+  "u": 515,
+  "v": 126,
+  "w": 19,
+  "x": 43,
+  "y": 52,
+  "z": 16,
+}
